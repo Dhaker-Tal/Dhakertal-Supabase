@@ -1,0 +1,5 @@
+.env
+.env.*
+.branches/
+.temp/
+.DS_Store
